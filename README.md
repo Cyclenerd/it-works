@@ -16,7 +16,6 @@ Supported architectures:
 - ARMv8 64-bit:  `linux/arm64/v8`
 - ARMv7 32-bit:  `linux/arm/v7`
 - ARMv6 32-bit:  `linux/arm/v6`
-- x86/i686:      `linux/386`
 - IBM POWER8:    `linux/ppc64le`
 - RISC-V 64-bit: `linux/riscv64`
 - IBM z Systems: `linux/s390x`
