@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM alpine:latest AS builder
+FROM docker.io/library/alpine:latest AS builder
 
 ENV BUSYBOX_VERSION="1.37.0"
 

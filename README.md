@@ -13,12 +13,10 @@ docker.io/cyclenerd/it-works:latest
 Supported architectures:
 
 - Linux x86-64:  `linux/amd64`
-- ARMv8 64-bit:  `linux/arm64`
+- ARMv8 64-bit:  `linux/arm64/v8`
 - ARMv7 32-bit:  `linux/arm/v7`
 - ARMv6 32-bit:  `linux/arm/v6`
-- ARMv5 32-bit:  `linux/arm/v5`
-- x86/i686:      `linux/i386`
-- MIPS64 LE:     `linux/mips64le`
+- x86/i686:      `linux/386`
 - IBM POWER8:    `linux/ppc64le`
 - RISC-V 64-bit: `linux/riscv64`
 - IBM z Systems: `linux/s390x`
