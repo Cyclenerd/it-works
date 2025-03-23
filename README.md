@@ -1,22 +1,23 @@
 # It Works! 🎉
 
+[![Badge: Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](#readme)
+[![Badge: Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)](#readme)
+[![Badge: License](https://img.shields.io/github/license/cyclenerd/it-works)](https://github.com/Cyclenerd/it-works/blob/master/LICENSE)
+
 Ultra-lightweight Docker Container (under 170 KB) with an elegant celebration webpage featuring animated confetti explosions.
 
 ![Screenshot](./img/screenshot.png)
 
-Container image:
+**Container image:**
 
 ```text
 docker.io/cyclenerd/it-works:latest
 ```
 
-Supported architectures:
+**Multiarch support:**
 
-- Linux x86-64:  `linux/amd64`
-- ARMv8 64-bit:  `linux/arm64/v8`
-- IBM POWER8:    `linux/ppc64le`
-- RISC-V 64-bit: `linux/riscv64`
-- IBM z Systems: `linux/s390x`
+* `amd64` : Intel or AMD 64-Bit CPU (x86-64)
+* `arm64` : Arm-based 64-Bit CPU (i.e. Apple silicon, AWS Graviton, Ampere Altra, Google Axion)
 
 ## Quick Start
 
