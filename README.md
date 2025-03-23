@@ -4,9 +4,16 @@
 [![Badge: Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)](#readme)
 [![Badge: License](https://img.shields.io/github/license/cyclenerd/it-works)](https://github.com/Cyclenerd/it-works/blob/master/LICENSE)
 
-Ultra-lightweight Docker Container (under 170 KB) with an elegant celebration webpage featuring animated confetti explosions.
+Ultra-lightweight Container image (<170 KB uncompressed) with an elegant celebration webpage featuring animated confetti explosions.
 
 ![Screenshot](./img/screenshot.png)
+
+This image is designed for basic container operation verification, demonstrating:
+
+* The host system can run containers.
+* Images can be successfully retrieved from the docker.io registry.
+* Containers can be created without errors.
+* The container can serve HTTP content, confirming network functionality.
 
 **Container image:**
 
