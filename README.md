@@ -6,14 +6,12 @@
 
 Ultra-lightweight Container image (<170 KB uncompressed) with an elegant celebration webpage featuring animated confetti explosions.
 
-<div style="text-align:center">
+<p align="center"><a href="https://rawcdn.githack.com/Cyclenerd/it-works/969852ae34045e7dac149c9adf09e3c3231888bd/www/index.html"><img src="https://raw.githubusercontent.com/Cyclenerd/it-works/master/img/screenshot.png"></a></p>
 
-[![Demo Image](./img/screenshot.png)](https://rawcdn.githack.com/Cyclenerd/it-works/969852ae34045e7dac149c9adf09e3c3231888bd/www/index.html)
-[Demo Website](https://rawcdn.githack.com/Cyclenerd/it-works/969852ae34045e7dac149c9adf09e3c3231888bd/www/index.html)
+<p align="center">
+<a href="https://rawcdn.githack.com/Cyclenerd/it-works/969852ae34045e7dac149c9adf09e3c3231888bd/www/index.html">— Demo Website —</a></p>
 
-</div>
-
-This image is designed for basic container operation verification, demonstrating:
+This Container image is designed for basic container operation verification, demonstrating:
 
 * The host system can run containers.
 * Images can be successfully retrieved from the docker.io registry.
