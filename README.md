@@ -6,7 +6,8 @@
 
 Ultra-lightweight Container image (<170 KB uncompressed) with an elegant celebration webpage featuring animated confetti explosions.
 
-![Screenshot](./img/screenshot.png)
+[![Demo Image](./img/screenshot.png)](https://rawcdn.githack.com/Cyclenerd/it-works/969852ae34045e7dac149c9adf09e3c3231888bd/www/index.html)
+- [Demo Website](https://rawcdn.githack.com/Cyclenerd/it-works/969852ae34045e7dac149c9adf09e3c3231888bd/www/index.html) -
 
 This image is designed for basic container operation verification, demonstrating:
 
