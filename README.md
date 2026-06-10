@@ -4,7 +4,7 @@
 [![Badge: Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)](#readme)
 [![Badge: License](https://img.shields.io/github/license/cyclenerd/it-works)](https://github.com/Cyclenerd/it-works/blob/master/LICENSE)
 
-Ultra-lightweight Container image (<170 KB uncompressed) with an elegant celebration webpage featuring animated confetti explosions.
+Ultra-lightweight Container image (<150 KB uncompressed) with an elegant celebration webpage featuring animated confetti explosions.
 
 <p align="center"><a href="https://rawcdn.githack.com/Cyclenerd/it-works/969852ae34045e7dac149c9adf09e3c3231888bd/www/index.html"><img src="https://raw.githubusercontent.com/Cyclenerd/it-works/master/img/screenshot.png"></a></p>
 
